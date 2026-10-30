@@ -1,0 +1,2602 @@
+[
+ {
+  "id": "001",
+  "make": "Harley-Davidson",
+  "model": "Heritage Classic 114",
+  "category": "Cruiser",
+  "year": 2023,
+  "country": "United States",
+  "engine": "Milwaukee-Eight V-Twin, air/oil-cooled",
+  "displacement": 1868,
+  "horsepower": 94,
+  "price": 21999,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Harley_Davidson_Heritage_Softail_Classic.jpg/1280px-Harley_Davidson_Heritage_Softail_Classic.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Harley_Davidson_Heritage_Softail_Classic.jpg",
+    "credit": "David Adam Kess",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Harley-Davidson_Heritage_Softail%2C_Windsor%2C_Ontario%2C_2026-05-08_01.jpg/1280px-Harley-Davidson_Heritage_Softail%2C_Windsor%2C_Ontario%2C_2026-05-08_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Harley-Davidson_Heritage_Softail,_Windsor,_Ontario,_2026-05-08_01.jpg",
+    "credit": "Chris Woodrich",
+    "license": "CC BY-SA 4.0"
+   }
+  ]
+ },
+ {
+  "id": "002",
+  "make": "Harley-Davidson",
+  "model": "Road King",
+  "category": "Touring",
+  "year": 2020,
+  "country": "United States",
+  "engine": "Milwaukee-Eight V-Twin, air/oil-cooled",
+  "displacement": 1746,
+  "horsepower": 86,
+  "price": 19999,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Harley-Davidson_Road_King_in_Switzerland_%282022%29.jpg/1280px-Harley-Davidson_Road_King_in_Switzerland_%282022%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Harley-Davidson_Road_King_in_Switzerland_(2022).jpg",
+    "credit": "JoachimKohler-HB",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Harley-Davidson_Road_King_-_Lateral_view.jpg/1280px-Harley-Davidson_Road_King_-_Lateral_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Harley-Davidson_Road_King_-_Lateral_view.jpg",
+    "credit": "Livioandronico2013",
+    "license": "CC BY-SA 4.0"
+   }
+  ]
+ },
+ {
+  "id": "003",
+  "make": "Harley-Davidson",
+  "model": "Fat Boy",
+  "category": "Chopper",
+  "year": 2022,
+  "country": "United States",
+  "engine": "Milwaukee-Eight V-Twin, air/oil-cooled",
+  "displacement": 1868,
+  "horsepower": 94,
+  "price": 21499,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Harley_Davidson_FAT_BOY_114.jpg/1280px-Harley_Davidson_FAT_BOY_114.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Harley_Davidson_FAT_BOY_114.jpg",
+    "credit": "Terragio67",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Harley-davidson_%22Fat_Boy%22.jpg/1280px-Harley-davidson_%22Fat_Boy%22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Harley-davidson_%22Fat_Boy%22.jpg",
+    "credit": "Livioandronico2013",
+    "license": "CC BY-SA 4.0"
+   }
+  ]
+ },
+ {
+  "id": "004",
+  "make": "Harley-Davidson",
+  "model": "Fat Bob",
+  "category": "Bobber",
+  "year": 2021,
+  "country": "United States",
+  "engine": "Milwaukee-Eight V-Twin, air/oil-cooled",
+  "displacement": 1868,
+  "horsepower": 94,
+  "price": 18999,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Harley_Davidson_Fat_Bob_114.jpg/1280px-Harley_Davidson_Fat_Bob_114.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Harley_Davidson_Fat_Bob_114.jpg",
+    "credit": "Sciencia58",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Harley_Davidson_Fatboy_%2812404682783%29.jpg/1280px-Harley_Davidson_Fatboy_%2812404682783%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Harley_Davidson_Fatboy_(12404682783).jpg",
+    "credit": "Bob Adams from George, South Africa",
+    "license": "CC BY-SA 2.0"
+   }
+  ]
+ },
+ {
+  "id": "005",
+  "make": "Harley-Davidson",
+  "model": "Softail Slim",
+  "category": "Chopper",
+  "year": 2019,
+  "country": "United States",
+  "engine": "Milwaukee-Eight V-Twin, air/oil-cooled",
+  "displacement": 1746,
+  "horsepower": 86,
+  "price": 15500,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Harley_Davidson_Softail_Slim_2018.jpg/1280px-Harley_Davidson_Softail_Slim_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Harley_Davidson_Softail_Slim_2018.jpg",
+    "credit": "Nitot",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Harley_Davidson_Softail_Slim_1994_style_%288274150059%29.jpg/1280px-Harley_Davidson_Softail_Slim_1994_style_%288274150059%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Harley_Davidson_Softail_Slim_1994_style_(8274150059).jpg",
+    "credit": "Dave_S. from Witney, England",
+    "license": "CC BY 2.0"
+   }
+  ]
+ },
+ {
+  "id": "006",
+  "make": "Harley-Davidson",
+  "model": "Breakout",
+  "category": "Chopper",
+  "year": 2023,
+  "country": "United States",
+  "engine": "Milwaukee-Eight V-Twin, air/oil-cooled",
+  "displacement": 1923,
+  "horsepower": 101,
+  "price": 21999,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Harley-Davidson_Softail_Breakout_FXSB103_%282015-08-25_Sp%29.jpg/1280px-Harley-Davidson_Softail_Breakout_FXSB103_%282015-08-25_Sp%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Harley-Davidson_Softail_Breakout_FXSB103_(2015-08-25_Sp).jpg",
+    "credit": "Lothar Spurzem",
+    "license": "CC BY-SA 2.0 de"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Harley-Davidson_Softail_Breakout_Review_103.jpg/1280px-Harley-Davidson_Softail_Breakout_Review_103.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Harley-Davidson_Softail_Breakout_Review_103.jpg",
+    "credit": "Юкатан",
+    "license": "CC BY-SA 4.0"
+   }
+  ]
+ },
+ {
+  "id": "007",
+  "make": "Harley-Davidson",
+  "model": "Low Rider S",
+  "category": "Cruiser",
+  "year": 2022,
+  "country": "United States",
+  "engine": "Milwaukee-Eight V-Twin, air/oil-cooled",
+  "displacement": 1923,
+  "horsepower": 101,
+  "price": 19499,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Harley-Davidson_Museum_May_2024_28_%282024_Low_Rider_ST%29.jpg/1280px-Harley-Davidson_Museum_May_2024_28_%282024_Low_Rider_ST%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Harley-Davidson_Museum_May_2024_28_(2024_Low_Rider_ST).jpg",
+    "credit": "Michael Barera",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Harley-Davidson_Museum_April_2024_42_%281977_FXS_Low_Rider--OHV_V-Twin%29.jpg/1280px-Harley-Davidson_Museum_April_2024_42_%281977_FXS_Low_Rider--OHV_V-Twin%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Harley-Davidson_Museum_April_2024_42_(1977_FXS_Low_Rider--OHV_V-Twin).jpg",
+    "credit": "Michael Barera",
+    "license": "CC BY-SA 4.0"
+   }
+  ]
+ },
+ {
+  "id": "008",
+  "make": "Harley-Davidson",
+  "model": "Electra Glide",
+  "category": "Touring",
+  "year": 2015,
+  "country": "United States",
+  "engine": "Twin Cam V-Twin, air-cooled",
+  "displacement": 1690,
+  "horsepower": 80,
+  "price": 14500,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Harley-Davidson_Electra_Glide_-_236.jpg/1280px-Harley-Davidson_Electra_Glide_-_236.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Harley-Davidson_Electra_Glide_-_236.jpg",
+    "credit": "Another one of my pictures:\n\n\n\nThis photograph was taken by Medium69 (William Cr",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/LVMPD_Harley-Davidson_Electra_Glide_on_Sidewalk.jpg/1280px-LVMPD_Harley-Davidson_Electra_Glide_on_Sidewalk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:LVMPD_Harley-Davidson_Electra_Glide_on_Sidewalk.jpg",
+    "credit": "Noah Wulf",
+    "license": "CC BY-SA 4.0"
+   }
+  ]
+ },
+ {
+  "id": "009",
+  "make": "Harley-Davidson",
+  "model": "Sportster Iron 883",
+  "category": "Bobber",
+  "year": 2018,
+  "country": "United States",
+  "engine": "Evolution V-Twin, air-cooled",
+  "displacement": 883,
+  "horsepower": 50,
+  "price": 8500,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Harley-davidson-sportster-iron-883.jpg/1280px-Harley-davidson-sportster-iron-883.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Harley-davidson-sportster-iron-883.jpg",
+    "credit": "Alek Kirstein",
+    "license": "CC BY-SA 2.0"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/W%C3%BCrgauer_Bergrennen_Harley-Davidson_Sportster-20220911-RM-111422.jpg/1280px-W%C3%BCrgauer_Bergrennen_Harley-Davidson_Sportster-20220911-RM-111422.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:W%C3%BCrgauer_Bergrennen_Harley-Davidson_Sportster-20220911-RM-111422.jpg",
+    "credit": "Ermell",
+    "license": "CC BY-SA 4.0"
+   }
+  ]
+ },
+ {
+  "id": "010",
+  "make": "Harley-Davidson",
+  "model": "Pan America 1250",
+  "category": "Adventure",
+  "year": 2022,
+  "country": "United States",
+  "engine": "Revolution Max V-Twin, liquid-cooled",
+  "displacement": 1252,
+  "horsepower": 150,
+  "price": 17999,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Harley-Davidson_Museum_May_2024_29_%282023_Pan_America_1250_Special%29.jpg/1280px-Harley-Davidson_Museum_May_2024_29_%282023_Pan_America_1250_Special%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Harley-Davidson_Museum_May_2024_29_(2023_Pan_America_1250_Special).jpg",
+    "credit": "Michael Barera",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Harley-Davidson_Pan_America_%282023%29.jpg/1280px-Harley-Davidson_Pan_America_%282023%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Harley-Davidson_Pan_America_(2023).jpg",
+    "credit": "Olinone",
+    "license": "CC BY-SA 4.0"
+   }
+  ]
+ },
+ {
+  "id": "011",
+  "make": "Harley-Davidson",
+  "model": "Nightster",
+  "category": "Bobber",
+  "year": 2023,
+  "country": "United States",
+  "engine": "Revolution Max V-Twin, liquid-cooled",
+  "displacement": 975,
+  "horsepower": 89,
+  "price": 13999,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Harley-Davidson_Museum_May_2024_30_%282024_Nightster%29.jpg/1280px-Harley-Davidson_Museum_May_2024_30_%282024_Nightster%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Harley-Davidson_Museum_May_2024_30_(2024_Nightster).jpg",
+    "credit": "Michael Barera",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Harley-Davidson_Museum_May_2024_25_%282007_XL_1200N_Nightster--OHV_V-Twin%29.jpg/1280px-Harley-Davidson_Museum_May_2024_25_%282007_XL_1200N_Nightster--OHV_V-Twin%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Harley-Davidson_Museum_May_2024_25_(2007_XL_1200N_Nightster--OHV_V-Twin).jpg",
+    "credit": "Michael Barera",
+    "license": "CC BY-SA 4.0"
+   }
+  ]
+ },
+ {
+  "id": "012",
+  "make": "Harley-Davidson",
+  "model": "Super Glide",
+  "category": "Cruiser",
+  "year": 1972,
+  "country": "United States",
+  "engine": "Shovelhead V-Twin, air-cooled",
+  "displacement": 1340,
+  "horsepower": 60,
+  "price": 18500,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Harley-Davidson_Museum_April_2024_26_%281971_FX_Super_Glide--OHV_V-Twin%29.jpg/1280px-Harley-Davidson_Museum_April_2024_26_%281971_FX_Super_Glide--OHV_V-Twin%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Harley-Davidson_Museum_April_2024_26_(1971_FX_Super_Glide--OHV_V-Twin).jpg",
+    "credit": "Michael Barera",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Harley-Davidson_Museum_May_2024_24_%282006_FXDI35_Super_Glide--OHV_V-Twin%29.jpg/1280px-Harley-Davidson_Museum_May_2024_24_%282006_FXDI35_Super_Glide--OHV_V-Twin%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Harley-Davidson_Museum_May_2024_24_(2006_FXDI35_Super_Glide--OHV_V-Twin).jpg",
+    "credit": "Michael Barera",
+    "license": "CC BY-SA 4.0"
+   }
+  ]
+ },
+ {
+  "id": "013",
+  "make": "Indian",
+  "model": "Scout",
+  "category": "Bobber",
+  "year": 2022,
+  "country": "United States",
+  "engine": "V-Twin, liquid-cooled",
+  "displacement": 1133,
+  "horsepower": 100,
+  "price": 12999,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Indian_scout_1924_Carli_-_Imperia_Italy.jpg/1280px-Indian_scout_1924_Carli_-_Imperia_Italy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Indian_scout_1924_Carli_-_Imperia_Italy.jpg",
+    "credit": "Al*from*Lig",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Indian_Scout_Motorbike%2C_Baur_Au_Lac%2C_Zurich_%28Ank_Kumar%2C_Infosys%29_04.jpg/1280px-Indian_Scout_Motorbike%2C_Baur_Au_Lac%2C_Zurich_%28Ank_Kumar%2C_Infosys%29_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Indian_Scout_Motorbike,_Baur_Au_Lac,_Zurich_(Ank_Kumar,_Infosys)_04.jpg",
+    "credit": "Ank Kumar",
+    "license": "CC BY-SA 4.0"
+   }
+  ]
+ },
+ {
+  "id": "014",
+  "make": "Indian",
+  "model": "Chief Vintage",
+  "category": "Cruiser",
+  "year": 2016,
+  "country": "United States",
+  "engine": "Thunder Stroke 111 V-Twin, air-cooled",
+  "displacement": 1811,
+  "horsepower": 82,
+  "price": 17500,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Indian_Chief_Vintage_111_ci_2014.jpg/1280px-Indian_Chief_Vintage_111_ci_2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Indian_Chief_Vintage_111_ci_2014.jpg",
+    "credit": "玄史生",
+    "license": "CC0"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Indian_Chief_Vintage%2C_2014.jpg/1280px-Indian_Chief_Vintage%2C_2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Indian_Chief_Vintage,_2014.jpg",
+    "credit": "Cjp24",
+    "license": "CC BY-SA 4.0"
+   }
+  ]
+ },
+ {
+  "id": "015",
+  "make": "Indian",
+  "model": "Chieftain",
+  "category": "Touring",
+  "year": 2019,
+  "country": "United States",
+  "engine": "Thunder Stroke 116 V-Twin, air-cooled",
+  "displacement": 1890,
+  "horsepower": 90,
+  "price": 24999,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Indian_Chieftain_parked_at_Hogs_for_Hospice%2C_Leamington%2C_Ontario%2C_2025-08-02.jpg/1280px-Indian_Chieftain_parked_at_Hogs_for_Hospice%2C_Leamington%2C_Ontario%2C_2025-08-02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Indian_Chieftain_parked_at_Hogs_for_Hospice,_Leamington,_Ontario,_2025-08-02.jpg",
+    "credit": "Chris Woodrich",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Moscow%2C_Indian_Chieftain_116_red%2C_Oct_2026_03.jpg/1280px-Moscow%2C_Indian_Chieftain_116_red%2C_Oct_2026_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Moscow,_Indian_Chieftain_116_red,_Oct_2026_03.jpg",
+    "credit": "Retired electrician",
+    "license": "CC0"
+   }
+  ]
+ },
+ {
+  "id": "016",
+  "make": "Indian",
+  "model": "Roadmaster",
+  "category": "Touring",
+  "year": 2021,
+  "country": "United States",
+  "engine": "Thunder Stroke 116 V-Twin, air-cooled",
+  "displacement": 1890,
+  "horsepower": 90,
+  "price": 29999,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Indian_Roadmaster_Leimershof_-20190907-RM-165454.jpg/1280px-Indian_Roadmaster_Leimershof_-20190907-RM-165454.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Indian_Roadmaster_Leimershof_-20190907-RM-165454.jpg",
+    "credit": "Ermell",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Indian_Roadmaster%2C_2015_%283%29.jpg/1280px-Indian_Roadmaster%2C_2015_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Indian_Roadmaster,_2015_(3).jpg",
+    "credit": "Cjp24",
+    "license": "CC BY-SA 4.0"
+   }
+  ]
+ },
+ {
+  "id": "017",
+  "make": "Indian",
+  "model": "FTR1200",
+  "category": "Scrambler",
+  "year": 2020,
+  "country": "United States",
+  "engine": "V-Twin, liquid-cooled",
+  "displacement": 1203,
+  "horsepower": 120,
+  "price": 13499,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Indian_FTR1200.jpg/1280px-Indian_FTR1200.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Indian_FTR1200.jpg",
+    "credit": "DestinationFearFan",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Indian_FTR_1200_-_special.jpg/1280px-Indian_FTR_1200_-_special.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Indian_FTR_1200_-_special.jpg",
+    "credit": "Decio \"desmodex\"",
+    "license": "CC BY-SA 2.0"
+   }
+  ]
+ },
+ {
+  "id": "018",
+  "make": "Indian",
+  "model": "Chief",
+  "category": "Cruiser",
+  "year": 1948,
+  "country": "United States",
+  "engine": "Flathead V-Twin, air-cooled",
+  "displacement": 1213,
+  "horsepower": 40,
+  "price": 32000,
+  "images": [
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/8/81/Indian_Chief_Black_Hawk_80_cubic_inch_1950.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "page": "https://commons.wikimedia.org/wiki/File:Indian_Chief_Black_Hawk_80_cubic_inch_1950.jpg",
+    "credit": "Yesterdays Antique Motorcycles",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Indian_Big_Chief_%2840985055534%29.jpg/1280px-Indian_Big_Chief_%2840985055534%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Indian_Big_Chief_(40985055534).jpg",
+    "credit": "Thomas Vogt from Paderborn, Deutschland",
+    "license": "CC BY-SA 2.0"
+   }
+  ]
+ },
+ {
+  "id": "019",
+  "make": "Indian",
+  "model": "Chief Dark Horse",
+  "category": "Bobber",
+  "year": 2022,
+  "country": "United States",
+  "engine": "Thunder Stroke 116 V-Twin, air-cooled",
+  "displacement": 1890,
+  "horsepower": 90,
+  "price": 19999,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Indian_Chief_Dark_Horse_%282%29.jpg/1280px-Indian_Chief_Dark_Horse_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Indian_Chief_Dark_Horse_(2).jpg",
+    "credit": "Cjp24",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Indian_Chief_Dark_Horse_%281%29.jpg/1280px-Indian_Chief_Dark_Horse_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Indian_Chief_Dark_Horse_(1).jpg",
+    "credit": "Cjp24",
+    "license": "CC BY-SA 4.0"
+   }
+  ]
+ },
+ {
+  "id": "020",
+  "make": "Triumph",
+  "model": "Bonneville T120",
+  "category": "Café Racer",
+  "year": 2021,
+  "country": "United Kingdom",
+  "engine": "Parallel-Twin, liquid-cooled",
+  "displacement": 1200,
+  "horsepower": 79,
+  "price": 12500,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Triumph_Bonneville_IMG_2728.jpg/1280px-Triumph_Bonneville_IMG_2728.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Triumph_Bonneville_IMG_2728.jpg",
+    "credit": "Rama",
+    "license": "CC BY-SA 2.0 fr"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Triumph_Bonneville_T120_%281970%29_-_8962027645.jpg/1280px-Triumph_Bonneville_T120_%281970%29_-_8962027645.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Triumph_Bonneville_T120_(1970)_-_8962027645.jpg",
+    "credit": "SG2012",
+    "license": "CC BY 2.0"
+   }
+  ]
+ },
+ {
+  "id": "021",
+  "make": "Triumph",
+  "model": "Bonneville Bobber",
+  "category": "Bobber",
+  "year": 2022,
+  "country": "United Kingdom",
+  "engine": "Parallel-Twin, liquid-cooled",
+  "displacement": 1200,
+  "horsepower": 77,
+  "price": 14495,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Triumph_Bonneville_Bobber.jpg/1280px-Triumph_Bonneville_Bobber.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Triumph_Bonneville_Bobber.jpg",
+    "credit": "Alex Tanchoco",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Triumph_Bonneville_Bobber_at_Legendy_2018_in_Prague.jpg/1280px-Triumph_Bonneville_Bobber_at_Legendy_2018_in_Prague.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Triumph_Bonneville_Bobber_at_Legendy_2018_in_Prague.jpg",
+    "credit": "Jiří Sedláček",
+    "license": "CC BY-SA 4.0"
+   }
+  ]
+ },
+ {
+  "id": "022",
+  "make": "Triumph",
+  "model": "Thruxton R",
+  "category": "Café Racer",
+  "year": 2019,
+  "country": "United Kingdom",
+  "engine": "Parallel-Twin, liquid-cooled",
+  "displacement": 1200,
+  "horsepower": 97,
+  "price": 13500,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/2020_Triumph_Thruxton_R_Custom_1.2.jpg/1280px-2020_Triumph_Thruxton_R_Custom_1.2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:2020_Triumph_Thruxton_R_Custom_1.2.jpg",
+    "credit": "Vauxford",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/2016_Triumph_Thruxton_R_with_sidecar_1.2.jpg/1280px-2016_Triumph_Thruxton_R_with_sidecar_1.2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:2016_Triumph_Thruxton_R_with_sidecar_1.2.jpg",
+    "credit": "Vauxford",
+    "license": "CC BY-SA 4.0"
+   }
+  ]
+ },
+ {
+  "id": "023",
+  "make": "Triumph",
+  "model": "Speed Triple",
+  "category": "Sport",
+  "year": 2022,
+  "country": "United Kingdom",
+  "engine": "Inline-Triple, liquid-cooled",
+  "displacement": 1160,
+  "horsepower": 177,
+  "price": 18950,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Triumph_Speed_Triple_1050_2011.jpg/1280px-Triumph_Speed_Triple_1050_2011.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Triumph_Speed_Triple_1050_2011.jpg",
+    "credit": "DeFacto",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Triumph_Speed_Triple_T300b_1994_sideview_left.jpg/1280px-Triumph_Speed_Triple_T300b_1994_sideview_left.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Triumph_Speed_Triple_T300b_1994_sideview_left.jpg",
+    "credit": "EVT300b",
+    "license": "CC BY-SA 4.0"
+   }
+  ]
+ },
+ {
+  "id": "024",
+  "make": "Triumph",
+  "model": "Street Triple RS",
+  "category": "Sport",
+  "year": 2021,
+  "country": "United Kingdom",
+  "engine": "Inline-Triple, liquid-cooled",
+  "displacement": 765,
+  "horsepower": 121,
+  "price": 12950,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Triumph_Street_Triple_765_RS_%282022%29.jpg/1280px-Triumph_Street_Triple_765_RS_%282022%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Triumph_Street_Triple_765_RS_(2022).jpg",
+    "credit": "Darktiger0512",
+    "license": "CC BY 4.0"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Triumph_Street_Triple_675_front_left_threequarter.jpg/1280px-Triumph_Street_Triple_675_front_left_threequarter.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Triumph_Street_Triple_675_front_left_threequarter.jpg",
+    "credit": "lmnop88a",
+    "license": "CC BY 2.0"
+   }
+  ]
+ },
+ {
+  "id": "025",
+  "make": "Triumph",
+  "model": "Daytona 675",
+  "category": "Sport",
+  "year": 2012,
+  "country": "United Kingdom",
+  "engine": "Inline-Triple, liquid-cooled",
+  "displacement": 675,
+  "horsepower": 126,
+  "price": 7500,
+  "images": [
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/0/04/TriumphDaytona675Side.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "page": "https://commons.wikimedia.org/wiki/File:TriumphDaytona675Side.jpg",
+    "credit": "NathanLee at English Wikipedia",
+    "license": "Public domain"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Triumph_Daytona_675_2009.jpg/1280px-Triumph_Daytona_675_2009.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Triumph_Daytona_675_2009.jpg",
+    "credit": "Oz from Near Bristol, UK",
+    "license": "CC BY 2.0"
+   }
+  ]
+ },
+ {
+  "id": "026",
+  "make": "Triumph",
+  "model": "Tiger 900",
+  "category": "Adventure",
+  "year": 2021,
+  "country": "United Kingdom",
+  "engine": "Inline-Triple, liquid-cooled",
+  "displacement": 888,
+  "horsepower": 94,
+  "price": 16500,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/2021_Triumph_Tiger_900_GT_LRH.jpg/1280px-2021_Triumph_Tiger_900_GT_LRH.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:2021_Triumph_Tiger_900_GT_LRH.jpg",
+    "credit": "Vauxford",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Triumph_900_Tiger.JPG/1280px-Triumph_900_Tiger.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Triumph_900_Tiger.JPG",
+    "credit": "Dédélembrouille",
+    "license": "CC BY-SA 2.5"
+   }
+  ]
+ },
+ {
+  "id": "027",
+  "make": "Triumph",
+  "model": "Scrambler 1200",
+  "category": "Scrambler",
+  "year": 2020,
+  "country": "United Kingdom",
+  "engine": "Parallel-Twin, liquid-cooled",
+  "displacement": 1200,
+  "horsepower": 89,
+  "price": 13900,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Triumph-Scrambler-1200XE_%28MY24%29.jpg/1280px-Triumph-Scrambler-1200XE_%28MY24%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Triumph-Scrambler-1200XE_(MY24).jpg",
+    "credit": "Rouv1505",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Triumph_Scrambler_1200_XE.jpg/1280px-Triumph_Scrambler_1200_XE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Triumph_Scrambler_1200_XE.jpg",
+    "credit": "MotorideSA",
+    "license": "CC BY-SA 4.0"
+   }
+  ]
+ },
+ {
+  "id": "028",
+  "make": "Triumph",
+  "model": "Rocket 3",
+  "category": "Cruiser",
+  "year": 2021,
+  "country": "United Kingdom",
+  "engine": "Inline-Triple, liquid-cooled",
+  "displacement": 2458,
+  "horsepower": 165,
+  "price": 23500,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Triumph_Rocket_3_GT.jpg/1280px-Triumph_Rocket_3_GT.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Triumph_Rocket_3_GT.jpg",
+    "credit": "Bugsybanana",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Triumph_Rocket_3_II.jpg/1280px-Triumph_Rocket_3_II.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Triumph_Rocket_3_II.jpg",
+    "credit": "GerdeeX",
+    "license": "CC BY-SA 4.0"
+   }
+  ]
+ },
+ {
+  "id": "029",
+  "make": "Triumph",
+  "model": "Bonneville T100",
+  "category": "Café Racer",
+  "year": 1969,
+  "country": "United Kingdom",
+  "engine": "Parallel-Twin, air-cooled",
+  "displacement": 500,
+  "horsepower": 39,
+  "price": 11500,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Triumph_Bonneville_T100_in_Munich.jpg/1280px-Triumph_Bonneville_T100_in_Munich.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Triumph_Bonneville_T100_in_Munich.jpg",
+    "credit": "AuHaidhausen",
+    "license": "CC BY 4.0"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Angoul%C3%AAme_Triumph_Bonneville_2012.jpg/1280px-Angoul%C3%AAme_Triumph_Bonneville_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Angoul%C3%AAme_Triumph_Bonneville_2012.jpg",
+    "credit": "JLPC",
+    "license": "CC BY-SA 3.0"
+   }
+  ]
+ },
+ {
+  "id": "030",
+  "make": "Royal Enfield",
+  "model": "Bullet 350",
+  "category": "Cruiser",
+  "year": 2019,
+  "country": "India",
+  "engine": "Single, air-cooled",
+  "displacement": 346,
+  "horsepower": 20,
+  "price": 4500,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Royal_Enfield_Bullet_350_1955.JPG/1280px-Royal_Enfield_Bullet_350_1955.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Royal_Enfield_Bullet_350_1955.JPG",
+    "credit": "Thruxton",
+    "license": "CC BY 3.0"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Royal_Enfield-_Bullet_350.jpg/1280px-Royal_Enfield-_Bullet_350.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Royal_Enfield-_Bullet_350.jpg",
+    "credit": "Derek A. from Akishima, Japan",
+    "license": "CC BY 2.0"
+   }
+  ]
+ },
+ {
+  "id": "031",
+  "make": "Royal Enfield",
+  "model": "Interceptor 650",
+  "category": "Café Racer",
+  "year": 2022,
+  "country": "India",
+  "engine": "Parallel-Twin, air/oil-cooled",
+  "displacement": 648,
+  "horsepower": 47,
+  "price": 6199,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Royal_Enfield_650_Interceptor_A-Seite_noBG.jpg/1280px-Royal_Enfield_650_Interceptor_A-Seite_noBG.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Royal_Enfield_650_Interceptor_A-Seite_noBG.jpg",
+    "credit": "Auge=mit",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Royal_Enfield_650_Interceptor_links_rechts_noBG.jpg/1280px-Royal_Enfield_650_Interceptor_links_rechts_noBG.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Royal_Enfield_650_Interceptor_links_rechts_noBG.jpg",
+    "credit": "Auge=mit",
+    "license": "CC BY-SA 4.0"
+   }
+  ]
+ },
+ {
+  "id": "032",
+  "make": "Royal Enfield",
+  "model": "Continental GT 650",
+  "category": "Café Racer",
+  "year": 2022,
+  "country": "India",
+  "engine": "Parallel-Twin, air/oil-cooled",
+  "displacement": 648,
+  "horsepower": 47,
+  "price": 6499,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Royal_Enfield_Continental_GT_650_%281%29.jpg/1280px-Royal_Enfield_Continental_GT_650_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Royal_Enfield_Continental_GT_650_(1).jpg",
+    "credit": "Cjp24",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Royal_Enfield_Continental_GT_650.jpg/1280px-Royal_Enfield_Continental_GT_650.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Royal_Enfield_Continental_GT_650.jpg",
+    "credit": "Kiranpawar3210",
+    "license": "CC BY-SA 4.0"
+   }
+  ]
+ },
+ {
+  "id": "033",
+  "make": "Royal Enfield",
+  "model": "Himalayan",
+  "category": "Adventure",
+  "year": 2021,
+  "country": "India",
+  "engine": "Single, air-cooled",
+  "displacement": 411,
+  "horsepower": 24,
+  "price": 5199,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Royal_Enfield_Himalayan_DB2K5442.jpg/1280px-Royal_Enfield_Himalayan_DB2K5442.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Royal_Enfield_Himalayan_DB2K5442.jpg",
+    "credit": "Ashley Pomeroy",
+    "license": "CC0"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Royal_Enfield_Himalayan_red_black.jpg/1280px-Royal_Enfield_Himalayan_red_black.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Royal_Enfield_Himalayan_red_black.jpg",
+    "credit": "Sakkilog",
+    "license": "CC BY-SA 4.0"
+   }
+  ]
+ },
+ {
+  "id": "034",
+  "make": "Royal Enfield",
+  "model": "Classic 350",
+  "category": "Cruiser",
+  "year": 2022,
+  "country": "India",
+  "engine": "Single, air/oil-cooled",
+  "displacement": 349,
+  "horsepower": 20,
+  "price": 4599,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Royal_Enfield_Classic_350_-_Gran_Via_-_Madrid_01.jpg/1280px-Royal_Enfield_Classic_350_-_Gran_Via_-_Madrid_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Royal_Enfield_Classic_350_-_Gran_Via_-_Madrid_01.jpg",
+    "credit": "Javier Perez Montes",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Royal_Enfield_Classic_350.jpg/1280px-Royal_Enfield_Classic_350.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Royal_Enfield_Classic_350.jpg",
+    "credit": "Tirthrajnbarot",
+    "license": "CC BY-SA 3.0"
+   }
+  ]
+ },
+ {
+  "id": "035",
+  "make": "Royal Enfield",
+  "model": "Super Meteor 650",
+  "category": "Cruiser",
+  "year": 2023,
+  "country": "India",
+  "engine": "Parallel-Twin, air/oil-cooled",
+  "displacement": 648,
+  "horsepower": 47,
+  "price": 7299,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Royal_Enfield_Super_Meteor_650_%2802%29.jpg/1280px-Royal_Enfield_Super_Meteor_650_%2802%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Royal_Enfield_Super_Meteor_650_(02).jpg",
+    "credit": "iMahesh",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Royal_Enfield_Super_Meteor_650_%2801%29.jpg/1280px-Royal_Enfield_Super_Meteor_650_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Royal_Enfield_Super_Meteor_650_(01).jpg",
+    "credit": "iMahesh",
+    "license": "CC BY-SA 4.0"
+   }
+  ]
+ },
+ {
+  "id": "036",
+  "make": "Royal Enfield",
+  "model": "Meteor 350",
+  "category": "Cruiser",
+  "year": 2022,
+  "country": "India",
+  "engine": "Single, air/oil-cooled",
+  "displacement": 349,
+  "horsepower": 20,
+  "price": 4399,
+  "images": [
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Royal_Enfield_Meteor_350_in_Pune.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "page": "https://commons.wikimedia.org/wiki/File:Royal_Enfield_Meteor_350_in_Pune.jpg",
+    "credit": "Ashwin Baindur",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Royal_Enfield_Meteor_350.jpg/1280px-Royal_Enfield_Meteor_350.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Royal_Enfield_Meteor_350.jpg",
+    "credit": "Corvettec6r",
+    "license": "CC BY 4.0"
+   }
+  ]
+ },
+ {
+  "id": "037",
+  "make": "BMW",
+  "model": "R nineT",
+  "category": "Café Racer",
+  "year": 2019,
+  "country": "Germany",
+  "engine": "Boxer Twin, air/oil-cooled",
+  "displacement": 1170,
+  "horsepower": 110,
+  "price": 14500,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/719-look_BMW_R_NineT_rear-side_view.jpg/1280px-719-look_BMW_R_NineT_rear-side_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:719-look_BMW_R_NineT_rear-side_view.jpg",
+    "credit": "Wikisympathisant",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/BMW_R_nine_T_in_Athens_on_10-28-2023.jpg/1280px-BMW_R_nine_T_in_Athens_on_10-28-2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:BMW_R_nine_T_in_Athens_on_10-28-2023.jpg",
+    "credit": "George E. Koronaios",
+    "license": "CC BY-SA 4.0"
+   }
+  ]
+ },
+ {
+  "id": "038",
+  "make": "BMW",
+  "model": "R 1250 GS",
+  "category": "Adventure",
+  "year": 2021,
+  "country": "Germany",
+  "engine": "Boxer Twin, air/liquid-cooled",
+  "displacement": 1254,
+  "horsepower": 136,
+  "price": 18995,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/BMW_R_1250_GS_%281%29.jpg/1280px-BMW_R_1250_GS_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:BMW_R_1250_GS_(1).jpg",
+    "credit": "Cjp24",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/BMW_R_1250_GS_and_helmet.jpg/1280px-BMW_R_1250_GS_and_helmet.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:BMW_R_1250_GS_and_helmet.jpg",
+    "credit": "Cjp24",
+    "license": "CC BY-SA 4.0"
+   }
+  ]
+ },
+ {
+  "id": "039",
+  "make": "BMW",
+  "model": "R 1250 RT",
+  "category": "Touring",
+  "year": 2021,
+  "country": "Germany",
+  "engine": "Boxer Twin, air/liquid-cooled",
+  "displacement": 1254,
+  "horsepower": 136,
+  "price": 19995,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/BMW_R_1250_RT_Seoul_Police_%282%29.jpg/1280px-BMW_R_1250_RT_Seoul_Police_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:BMW_R_1250_RT_Seoul_Police_(2).jpg",
+    "credit": "Damian B Oh",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/BMW_R_1250_RT_Seoul_Police_%283%29.jpg/1280px-BMW_R_1250_RT_Seoul_Police_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:BMW_R_1250_RT_Seoul_Police_(3).jpg",
+    "credit": "Damian B Oh",
+    "license": "CC BY-SA 4.0"
+   }
+  ]
+ },
+ {
+  "id": "040",
+  "make": "BMW",
+  "model": "S 1000 RR",
+  "category": "Sport",
+  "year": 2020,
+  "country": "Germany",
+  "engine": "Inline-Four, liquid-cooled",
+  "displacement": 999,
+  "horsepower": 205,
+  "price": 17995,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/BMW_S1000_RR_Studio.JPG/1280px-BMW_S1000_RR_Studio.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:BMW_S1000_RR_Studio.JPG",
+    "credit": "Stefan Krause, Germany",
+    "license": "CC BY-SA 3.0"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Leon_Haslam_BMW_S_1000_RR_%288228832657%29.jpg/1280px-Leon_Haslam_BMW_S_1000_RR_%288228832657%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Leon_Haslam_BMW_S_1000_RR_(8228832657).jpg",
+    "credit": "Tony Hisgett from Birmingham, UK",
+    "license": "CC BY 2.0"
+   }
+  ]
+ },
+ {
+  "id": "041",
+  "make": "BMW",
+  "model": "R 18",
+  "category": "Cruiser",
+  "year": 2021,
+  "country": "Germany",
+  "engine": "Boxer Twin, air/oil-cooled",
+  "displacement": 1802,
+  "horsepower": 91,
+  "price": 17495,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/BMW_R18_First_Edition_lateral_left_DSC_0267.jpg/1280px-BMW_R18_First_Edition_lateral_left_DSC_0267.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:BMW_R18_First_Edition_lateral_left_DSC_0267.jpg",
+    "credit": "Self-photographed by Bullenwächter",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/BMW_R18_red_and_turquoise.jpg/1280px-BMW_R18_red_and_turquoise.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:BMW_R18_red_and_turquoise.jpg",
+    "credit": "Wikisympathisant",
+    "license": "CC BY-SA 4.0"
+   }
+  ]
+ },
+ {
+  "id": "042",
+  "make": "BMW",
+  "model": "K 1600 GTL",
+  "category": "Touring",
+  "year": 2018,
+  "country": "Germany",
+  "engine": "Inline-Six, liquid-cooled",
+  "displacement": 1649,
+  "horsepower": 160,
+  "price": 19500,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/BMW_K_1600_GTL_right.JPG/1280px-BMW_K_1600_GTL_right.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:BMW_K_1600_GTL_right.JPG",
+    "credit": "Pierotreruote",
+    "license": "CC BY-SA 3.0"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/BMW_K_1600_GTL_left.JPG/1280px-BMW_K_1600_GTL_left.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:BMW_K_1600_GTL_left.JPG",
+    "credit": "Pierotreruote",
+    "license": "CC BY-SA 3.0"
+   }
+  ]
+ },
+ {
+  "id": "043",
+  "make": "BMW",
+  "model": "R 90 S",
+  "category": "Café Racer",
+  "year": 1975,
+  "country": "Germany",
+  "engine": "Boxer Twin, air-cooled",
+  "displacement": 898,
+  "horsepower": 67,
+  "price": 16500,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/BMW_R_90-S_1973_W%C3%BCrgau-20190922-RM-110754.jpg/1280px-BMW_R_90-S_1973_W%C3%BCrgau-20190922-RM-110754.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:BMW_R_90-S_1973_W%C3%BCrgau-20190922-RM-110754.jpg",
+    "credit": "Ermell",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/BMW_R_90-S_W%C3%BCrgau-20190922-RM-110754.jpg/1280px-BMW_R_90-S_W%C3%BCrgau-20190922-RM-110754.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:BMW_R_90-S_W%C3%BCrgau-20190922-RM-110754.jpg",
+    "credit": "Ermell",
+    "license": "CC BY-SA 4.0"
+   }
+  ]
+ },
+ {
+  "id": "044",
+  "make": "BMW",
+  "model": "R nineT Urban G/S",
+  "category": "Scrambler",
+  "year": 2020,
+  "country": "Germany",
+  "engine": "Boxer Twin, air/oil-cooled",
+  "displacement": 1170,
+  "horsepower": 110,
+  "price": 12500,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/BMW_R_nineT_Urban_GS_%281%29.jpg/1280px-BMW_R_nineT_Urban_GS_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:BMW_R_nineT_Urban_GS_(1).jpg",
+    "credit": "Cjp24",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/BMW_R_Nine_T_Urban_GS_motorcycle.jpg/1280px-BMW_R_Nine_T_Urban_GS_motorcycle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:BMW_R_Nine_T_Urban_GS_motorcycle.jpg",
+    "credit": "Peter Campbell",
+    "license": "CC BY-SA 4.0"
+   }
+  ]
+ },
+ {
+  "id": "045",
+  "make": "BMW",
+  "model": "F 850 GS",
+  "category": "Adventure",
+  "year": 2020,
+  "country": "Germany",
+  "engine": "Parallel-Twin, liquid-cooled",
+  "displacement": 853,
+  "horsepower": 95,
+  "price": 12500,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/BMW_F_850_GS%2C_Baujahr_2018_%282019-04-14%29.jpg/1280px-BMW_F_850_GS%2C_Baujahr_2018_%282019-04-14%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:BMW_F_850_GS,_Baujahr_2018_(2019-04-14).jpg",
+    "credit": "Stuetze9",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/BMW_G_850_GS_der_Bundeswehr.jpg/1280px-BMW_G_850_GS_der_Bundeswehr.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:BMW_G_850_GS_der_Bundeswehr.jpg",
+    "credit": "Brezelpaul",
+    "license": "CC BY-SA 4.0"
+   }
+  ]
+ },
+ {
+  "id": "046",
+  "make": "Ducati",
+  "model": "Panigale V4",
+  "category": "Sport",
+  "year": 2021,
+  "country": "Italy",
+  "engine": "Desmosedici Stradale V4, liquid-cooled",
+  "displacement": 1103,
+  "horsepower": 214,
+  "price": 23995,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Ducati_Panigale_V4_-_Tuning_World_Bodensee_2018%2C_Friedrichshafen_%28OW1A0484%29.jpg/1280px-Ducati_Panigale_V4_-_Tuning_World_Bodensee_2018%2C_Friedrichshafen_%28OW1A0484%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Ducati_Panigale_V4_-_Tuning_World_Bodensee_2018,_Friedrichshafen_(OW1A0484).jpg",
+    "credit": "Matti Blume",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/3/3c/2020_Ducati_Panigale_V4_Superleggera.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "page": "https://commons.wikimedia.org/wiki/File:2020_Ducati_Panigale_V4_Superleggera.jpg",
+    "credit": "Ducati",
+    "license": "CC0"
+   }
+  ]
+ },
+ {
+  "id": "047",
+  "make": "Ducati",
+  "model": "Monster 1200",
+  "category": "Sport",
+  "year": 2018,
+  "country": "Italy",
+  "engine": "Testastretta L-Twin, liquid-cooled",
+  "displacement": 1198,
+  "horsepower": 147,
+  "price": 11500,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Ducati_Monster_1200_S_%281%29.jpg/1280px-Ducati_Monster_1200_S_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Ducati_Monster_1200_S_(1).jpg",
+    "credit": "Cjp24",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Ducati_Monster_1200_S_%2810760422383%29.jpg/1280px-Ducati_Monster_1200_S_%2810760422383%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Ducati_Monster_1200_S_(10760422383).jpg",
+    "credit": "Decio \"desmodex\"",
+    "license": "CC BY-SA 2.0"
+   }
+  ]
+ },
+ {
+  "id": "048",
+  "make": "Ducati",
+  "model": "Scrambler Icon",
+  "category": "Scrambler",
+  "year": 2021,
+  "country": "Italy",
+  "engine": "L-Twin, air-cooled",
+  "displacement": 803,
+  "horsepower": 73,
+  "price": 9995,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Ducati_Scrambler_800_Icon.jpg/1280px-Ducati_Scrambler_800_Icon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Ducati_Scrambler_800_Icon.jpg",
+    "credit": "MotorideSA",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/2015_Ducati_Scrambler_Icon_right.JPG/1280px-2015_Ducati_Scrambler_Icon_right.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:2015_Ducati_Scrambler_Icon_right.JPG",
+    "credit": "Dennis Bratland",
+    "license": "CC BY-SA 4.0"
+   }
+  ]
+ },
+ {
+  "id": "049",
+  "make": "Ducati",
+  "model": "Scrambler Desert Sled",
+  "category": "Scrambler",
+  "year": 2019,
+  "country": "Italy",
+  "engine": "L-Twin, air-cooled",
+  "displacement": 803,
+  "horsepower": 73,
+  "price": 10500,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Ducati_Scrambler_Desert_Sled_2019.jpg/1280px-Ducati_Scrambler_Desert_Sled_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Ducati_Scrambler_Desert_Sled_2019.jpg",
+    "credit": "Artem Lepesin",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Ducati_Scrambler_Desert_Sled.jpg/1280px-Ducati_Scrambler_Desert_Sled.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Ducati_Scrambler_Desert_Sled.jpg",
+    "credit": "Oleg Yunakov",
+    "license": "CC BY-SA 4.0"
+   }
+  ]
+ },
+ {
+  "id": "050",
+  "make": "Ducati",
+  "model": "Multistrada V4",
+  "category": "Adventure",
+  "year": 2021,
+  "country": "Italy",
+  "engine": "V4 Granturismo, liquid-cooled",
+  "displacement": 1158,
+  "horsepower": 170,
+  "price": 21995,
+  "images": [
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Ducati_Multistrada_V4_Rally_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "page": "https://commons.wikimedia.org/wiki/File:Ducati_Multistrada_V4_Rally_2026.jpg",
+    "credit": "MotorideSA",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Ducati_Multistrada_V4_S_2025.jpg/1280px-Ducati_Multistrada_V4_S_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Ducati_Multistrada_V4_S_2025.jpg",
+    "credit": "AVMOTO",
+    "license": "CC BY-SA 4.0"
+   }
+  ]
+ },
+ {
+  "id": "051",
+  "make": "Ducati",
+  "model": "Diavel 1260",
+  "category": "Cruiser",
+  "year": 2020,
+  "country": "Italy",
+  "engine": "Testastretta L-Twin, liquid-cooled",
+  "displacement": 1262,
+  "horsepower": 159,
+  "price": 18500,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Ducati_Diavel_1260_Lamborghini.jpg/1280px-Ducati_Diavel_1260_Lamborghini.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Ducati_Diavel_1260_Lamborghini.jpg",
+    "credit": "Earthshaker13",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/2021_Ducati_Diavel_1260_Lamborghini.jpg/1280px-2021_Ducati_Diavel_1260_Lamborghini.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:2021_Ducati_Diavel_1260_Lamborghini.jpg",
+    "credit": "MrWalkr",
+    "license": "CC BY-SA 4.0"
+   }
+  ]
+ },
+ {
+  "id": "052",
+  "make": "Ducati",
+  "model": "916",
+  "category": "Sport",
+  "year": 1996,
+  "country": "Italy",
+  "engine": "Desmoquattro L-Twin, liquid-cooled",
+  "displacement": 916,
+  "horsepower": 114,
+  "price": 15500,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Ducati_916_2.jpg/1280px-Ducati_916_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Ducati_916_2.jpg",
+    "credit": "Klaus Nahr from Germany",
+    "license": "CC BY-SA 2.0"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Ducati916.jpg/1280px-Ducati916.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Ducati916.jpg",
+    "credit": "Deko4you",
+    "license": "CC BY-SA 3.0"
+   }
+  ]
+ },
+ {
+  "id": "053",
+  "make": "Ducati",
+  "model": "Paul Smart 1000",
+  "category": "Café Racer",
+  "year": 2008,
+  "country": "Italy",
+  "engine": "L-Twin, air-cooled",
+  "displacement": 992,
+  "horsepower": 92,
+  "price": 12500,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Ducati_1000_Paul_Smart.jpg/1280px-Ducati_1000_Paul_Smart.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Ducati_1000_Paul_Smart.jpg",
+    "credit": "Brian Snelson from Hockley, Essex, England",
+    "license": "CC BY 2.0"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Ducati_Paul_Smart_1000_Sportclassic.JPG/1280px-Ducati_Paul_Smart_1000_Sportclassic.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Ducati_Paul_Smart_1000_Sportclassic.JPG",
+    "credit": "Piero at Dutch Wikipedia",
+    "license": "CC BY-SA 3.0"
+   }
+  ]
+ },
+ {
+  "id": "054",
+  "make": "Ducati",
+  "model": "XDiavel",
+  "category": "Cruiser",
+  "year": 2019,
+  "country": "Italy",
+  "engine": "Testastretta L-Twin, liquid-cooled",
+  "displacement": 1262,
+  "horsepower": 152,
+  "price": 19500,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Ducati_XDiavel%2C_Windsor%2C_Ontario%2C_2025-07-01.jpg/1280px-Ducati_XDiavel%2C_Windsor%2C_Ontario%2C_2025-07-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Ducati_XDiavel,_Windsor,_Ontario,_2025-07-01.jpg",
+    "credit": "Crisco 1492",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Ducati_XDiavel_S.jpg/1280px-Ducati_XDiavel_S.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Ducati_XDiavel_S.jpg",
+    "credit": "MichalPL",
+    "license": "CC BY-SA 4.0"
+   }
+  ]
+ },
+ {
+  "id": "055",
+  "make": "Moto Guzzi",
+  "model": "V7 Stone",
+  "category": "Café Racer",
+  "year": 2022,
+  "country": "Italy",
+  "engine": "Transverse V-Twin, air-cooled",
+  "displacement": 853,
+  "horsepower": 65,
+  "price": 8990,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Moto_Guzzi_V7_Stone_in_Avellino.jpg/1280px-Moto_Guzzi_V7_Stone_in_Avellino.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Moto_Guzzi_V7_Stone_in_Avellino.jpg",
+    "credit": "Corvettec6r",
+    "license": "CC BY 4.0"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Moto_Guzzi_V7_Stone_Corsa.jpg/1280px-Moto_Guzzi_V7_Stone_Corsa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Moto_Guzzi_V7_Stone_Corsa.jpg",
+    "credit": "AVMOTO",
+    "license": "CC BY-SA 4.0"
+   }
+  ]
+ },
+ {
+  "id": "056",
+  "make": "Moto Guzzi",
+  "model": "California 1400",
+  "category": "Touring",
+  "year": 2015,
+  "country": "Italy",
+  "engine": "Transverse V-Twin, air/oil-cooled",
+  "displacement": 1380,
+  "horsepower": 96,
+  "price": 11500,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Moto_Guzzi_-_California.jpg/1280px-Moto_Guzzi_-_California.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Moto_Guzzi_-_California.jpg",
+    "credit": "Livioandronico2013",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Moto_Guzzi_California_1400.jpg/1280px-Moto_Guzzi_California_1400.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Moto_Guzzi_California_1400.jpg",
+    "credit": "dito",
+    "license": "CC BY-SA 3.0"
+   }
+  ]
+ },
+ {
+  "id": "057",
+  "make": "Moto Guzzi",
+  "model": "V85 TT",
+  "category": "Adventure",
+  "year": 2021,
+  "country": "Italy",
+  "engine": "Transverse V-Twin, air-cooled",
+  "displacement": 853,
+  "horsepower": 76,
+  "price": 12490,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Moto_Guzzi_V85_TT%2C_2020_%282%29.jpg/1280px-Moto_Guzzi_V85_TT%2C_2020_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Moto_Guzzi_V85_TT,_2020_(2).jpg",
+    "credit": "Cjp24",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Moto_Guzzi_V85_TT_2026.jpg/1280px-Moto_Guzzi_V85_TT_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Moto_Guzzi_V85_TT_2026.jpg",
+    "credit": "MotorideSA",
+    "license": "CC BY-SA 4.0"
+   }
+  ]
+ },
+ {
+  "id": "058",
+  "make": "Moto Guzzi",
+  "model": "Le Mans",
+  "category": "Café Racer",
+  "year": 1977,
+  "country": "Italy",
+  "engine": "Transverse V-Twin, air-cooled",
+  "displacement": 844,
+  "horsepower": 71,
+  "price": 17500,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Blue_Moto_Guzzi_850_Le_Mans_pic2.JPG/1280px-Blue_Moto_Guzzi_850_Le_Mans_pic2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Blue_Moto_Guzzi_850_Le_Mans_pic2.JPG",
+    "credit": "AlfvanBeem",
+    "license": "CC0"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Moto_Guzzi_Le_Mans_%286065269642%29.jpg/1280px-Moto_Guzzi_Le_Mans_%286065269642%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Moto_Guzzi_Le_Mans_(6065269642).jpg",
+    "credit": "photobeppus",
+    "license": "CC BY-SA 2.0"
+   }
+  ]
+ },
+ {
+  "id": "059",
+  "make": "Moto Guzzi",
+  "model": "V9 Bobber",
+  "category": "Bobber",
+  "year": 2018,
+  "country": "Italy",
+  "engine": "Transverse V-Twin, air-cooled",
+  "displacement": 853,
+  "horsepower": 55,
+  "price": 8500,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Moto_Guzzi_Bobber_%28cropped%29.jpg/1280px-Moto_Guzzi_Bobber_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Moto_Guzzi_Bobber_(cropped).jpg",
+    "credit": "Jess Hawsor",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Moto_Guzzi_V9_Bobber_Centenario_2021_museum.jpg/1280px-Moto_Guzzi_V9_Bobber_Centenario_2021_museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Moto_Guzzi_V9_Bobber_Centenario_2021_museum.jpg",
+    "credit": "CheminduCret",
+    "license": "CC0"
+   }
+  ]
+ },
+ {
+  "id": "060",
+  "make": "Honda",
+  "model": "Gold Wing",
+  "category": "Touring",
+  "year": 2021,
+  "country": "Japan",
+  "engine": "Flat-Six, liquid-cooled",
+  "displacement": 1833,
+  "horsepower": 125,
+  "price": 24300,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Honda_Gold_Wing_GL_1500_in_Seligman_%28AZ%29.jpg/1280px-Honda_Gold_Wing_GL_1500_in_Seligman_%28AZ%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Honda_Gold_Wing_GL_1500_in_Seligman_(AZ).jpg",
+    "credit": "Pierre André Leclercq",
+    "license": "CC BY 4.0"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Honda_Goldwing%2C_GIMS_2019%2C_Le_Grand-Saconnex_%28GIMS0707%29.jpg/1280px-Honda_Goldwing%2C_GIMS_2019%2C_Le_Grand-Saconnex_%28GIMS0707%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Honda_Goldwing,_GIMS_2019,_Le_Grand-Saconnex_(GIMS0707).jpg",
+    "credit": "Matti Blume",
+    "license": "CC BY-SA 4.0"
+   }
+  ]
+ },
+ {
+  "id": "061",
+  "make": "Honda",
+  "model": "CB750 Four",
+  "category": "Café Racer",
+  "year": 1971,
+  "country": "Japan",
+  "engine": "Inline-Four, air-cooled",
+  "displacement": 736,
+  "horsepower": 67,
+  "price": 14500,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Honda_CB_750_Four.jpg/1280px-Honda_CB_750_Four.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Honda_CB_750_Four.jpg",
+    "credit": "Ronoli",
+    "license": "CC BY 2.0"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Honda_CB750_Four_K1_1971.jpg/1280px-Honda_CB750_Four_K1_1971.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Honda_CB750_Four_K1_1971.jpg",
+    "credit": "Khaosaming",
+    "license": "CC BY-SA 3.0"
+   }
+  ]
+ },
+ {
+  "id": "062",
+  "make": "Honda",
+  "model": "Rebel 500",
+  "category": "Bobber",
+  "year": 2022,
+  "country": "Japan",
+  "engine": "Parallel-Twin, liquid-cooled",
+  "displacement": 471,
+  "horsepower": 46,
+  "price": 6499,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Honda_CMX500_Rebel_parked_at_Hogs_for_Hospice%2C_Leamington%2C_Ontario%2C_2025-08-02.jpg/1280px-Honda_CMX500_Rebel_parked_at_Hogs_for_Hospice%2C_Leamington%2C_Ontario%2C_2025-08-02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Honda_CMX500_Rebel_parked_at_Hogs_for_Hospice,_Leamington,_Ontario,_2025-08-02.jpg",
+    "credit": "Chris Woodrich",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Honda_CMX500_Rebel_Portray.jpg/1280px-Honda_CMX500_Rebel_Portray.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Honda_CMX500_Rebel_Portray.jpg",
+    "credit": "Luchs Later",
+    "license": "CC BY 2.0"
+   }
+  ]
+ },
+ {
+  "id": "063",
+  "make": "Honda",
+  "model": "Rebel 1100",
+  "category": "Bobber",
+  "year": 2022,
+  "country": "Japan",
+  "engine": "Parallel-Twin, liquid-cooled",
+  "displacement": 1084,
+  "horsepower": 86,
+  "price": 9499,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/2021_Honda_Rebel_1100_MT.jpg/1280px-2021_Honda_Rebel_1100_MT.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:2021_Honda_Rebel_1100_MT.jpg",
+    "credit": "Chanokchon",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Honda_Rebel_1100_2026.jpg/1280px-Honda_Rebel_1100_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Honda_Rebel_1100_2026.jpg",
+    "credit": "MotorideSA",
+    "license": "CC BY-SA 4.0"
+   }
+  ]
+ },
+ {
+  "id": "064",
+  "make": "Honda",
+  "model": "Shadow Aero",
+  "category": "Cruiser",
+  "year": 2015,
+  "country": "Japan",
+  "engine": "V-Twin, liquid-cooled",
+  "displacement": 745,
+  "horsepower": 45,
+  "price": 5500,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/My_Best_Buddy_Honda_VT1100_Shadow_Aero.jpg/1280px-My_Best_Buddy_Honda_VT1100_Shadow_Aero.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:My_Best_Buddy_Honda_VT1100_Shadow_Aero.jpg",
+    "credit": "The USA Trailer Store",
+    "license": "CC BY 2.0"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Honda_Shadow4.jpg/1280px-Honda_Shadow4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Honda_Shadow4.jpg",
+    "credit": "Elmschrat",
+    "license": "CC BY-SA 3.0"
+   }
+  ]
+ },
+ {
+  "id": "065",
+  "make": "Honda",
+  "model": "Africa Twin",
+  "category": "Adventure",
+  "year": 2021,
+  "country": "Japan",
+  "engine": "Parallel-Twin, liquid-cooled",
+  "displacement": 1084,
+  "horsepower": 101,
+  "price": 14599,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Honda_Africa_Twin_XRV750T.jpg/1280px-Honda_Africa_Twin_XRV750T.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Honda_Africa_Twin_XRV750T.jpg",
+    "credit": "Mannazat",
+    "license": "CC BY-SA 3.0"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Honda_crf1000_africa_twin_tokyo.JPG/1280px-Honda_crf1000_africa_twin_tokyo.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Honda_crf1000_africa_twin_tokyo.JPG",
+    "credit": "Rainmaker47",
+    "license": "CC BY-SA 4.0"
+   }
+  ]
+ },
+ {
+  "id": "066",
+  "make": "Honda",
+  "model": "CBR1000RR Fireblade",
+  "category": "Sport",
+  "year": 2019,
+  "country": "Japan",
+  "engine": "Inline-Four, liquid-cooled",
+  "displacement": 999,
+  "horsepower": 189,
+  "price": 13500,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Honda_CBR1000RR_Fireblade.jpg/1280px-Honda_CBR1000RR_Fireblade.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Honda_CBR1000RR_Fireblade.jpg",
+    "credit": "Rama.",
+    "license": "CC BY-SA 2.0 fr"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Honda_CBR_1000_RR_Fireblade%2C_ca._2005_model.jpg/1280px-Honda_CBR_1000_RR_Fireblade%2C_ca._2005_model.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Honda_CBR_1000_RR_Fireblade,_ca._2005_model.jpg",
+    "credit": "Pittigrilli",
+    "license": "CC BY-SA 4.0"
+   }
+  ]
+ },
+ {
+  "id": "067",
+  "make": "Honda",
+  "model": "CB1100",
+  "category": "Café Racer",
+  "year": 2017,
+  "country": "Japan",
+  "engine": "Inline-Four, air/oil-cooled",
+  "displacement": 1140,
+  "horsepower": 88,
+  "price": 9500,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Honda_CB1100%2C_left_view.jpg/1280px-Honda_CB1100%2C_left_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Honda_CB1100,_left_view.jpg",
+    "credit": "Cjp24",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Honda_CB1100.jpg/1280px-Honda_CB1100.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Honda_CB1100.jpg",
+    "credit": "TTTNIS",
+    "license": "Public domain"
+   }
+  ]
+ },
+ {
+  "id": "068",
+  "make": "Honda",
+  "model": "Fury",
+  "category": "Chopper",
+  "year": 2018,
+  "country": "Japan",
+  "engine": "V-Twin, liquid-cooled",
+  "displacement": 1312,
+  "horsepower": 58,
+  "price": 9500,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/2010_Honda_Fury_at_the_2009_Seattle_International_Motorcycle_Show_5.jpg/1280px-2010_Honda_Fury_at_the_2009_Seattle_International_Motorcycle_Show_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:2010_Honda_Fury_at_the_2009_Seattle_International_Motorcycle_Show_5.jpg",
+    "credit": "Dbratland",
+    "license": "CC BY 3.0"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Honda_Fury_-_blue.jpg/1280px-Honda_Fury_-_blue.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Honda_Fury_-_blue.jpg",
+    "credit": "Cjp24",
+    "license": "CC BY-SA 4.0"
+   }
+  ]
+ },
+ {
+  "id": "069",
+  "make": "Honda",
+  "model": "CL350",
+  "category": "Scrambler",
+  "year": 1970,
+  "country": "Japan",
+  "engine": "Parallel-Twin, air-cooled",
+  "displacement": 325,
+  "horsepower": 33,
+  "price": 6500,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Honda_CL350_05.jpg/1280px-Honda_CL350_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Honda_CL350_05.jpg",
+    "credit": "John Goetzinger",
+    "license": "CC BY-SA 2.0"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Honda_CL350_02.jpg/1280px-Honda_CL350_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Honda_CL350_02.jpg",
+    "credit": "Jake Sutton",
+    "license": "CC BY-SA 2.0"
+   }
+  ]
+ },
+ {
+  "id": "070",
+  "make": "Kawasaki",
+  "model": "Z900RS",
+  "category": "Café Racer",
+  "year": 2022,
+  "country": "Japan",
+  "engine": "Inline-Four, liquid-cooled",
+  "displacement": 948,
+  "horsepower": 111,
+  "price": 11999,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Kawasaki_Z900RS_CAFE%28left%29_and_Z900RS%28right%29.jpg/1280px-Kawasaki_Z900RS_CAFE%28left%29_and_Z900RS%28right%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Kawasaki_Z900RS_CAFE(left)_and_Z900RS(right).jpg",
+    "credit": "サフィル",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Kawasaki_Z900RS_Cafe.jpg/1280px-Kawasaki_Z900RS_Cafe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Kawasaki_Z900RS_Cafe.jpg",
+    "credit": "Rikita",
+    "license": "CC BY-SA 4.0"
+   }
+  ]
+ },
+ {
+  "id": "071",
+  "make": "Kawasaki",
+  "model": "Ninja ZX-10R",
+  "category": "Sport",
+  "year": 2021,
+  "country": "Japan",
+  "engine": "Inline-Four, liquid-cooled",
+  "displacement": 998,
+  "horsepower": 203,
+  "price": 16399,
+  "images": [
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/1/14/Kawasaki_Ninja_ZX-10R_2008.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "page": "https://commons.wikimedia.org/wiki/File:Kawasaki_Ninja_ZX-10R_2008.jpg",
+    "credit": "StealthFX",
+    "license": "Public domain"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Kawasaki_Ninja_ZX-10R_2025.jpg/1280px-Kawasaki_Ninja_ZX-10R_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Kawasaki_Ninja_ZX-10R_2025.jpg",
+    "credit": "AVMOTO",
+    "license": "CC BY-SA 4.0"
+   }
+  ]
+ },
+ {
+  "id": "072",
+  "make": "Kawasaki",
+  "model": "Ninja H2",
+  "category": "Sport",
+  "year": 2020,
+  "country": "Japan",
+  "engine": "Supercharged Inline-Four, liquid-cooled",
+  "displacement": 998,
+  "horsepower": 228,
+  "price": 29500,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Kawasaki_Ninja_H2.jpg/1280px-Kawasaki_Ninja_H2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Kawasaki_Ninja_H2.jpg",
+    "credit": "Rikita",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Kawasaki_Ninja_H2_%281%29.jpg/1280px-Kawasaki_Ninja_H2_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Kawasaki_Ninja_H2_(1).jpg",
+    "credit": "Tokumeigakarinoaoshima",
+    "license": "CC BY-SA 4.0"
+   }
+  ]
+ },
+ {
+  "id": "073",
+  "make": "Kawasaki",
+  "model": "Vulcan 900",
+  "category": "Cruiser",
+  "year": 2018,
+  "country": "Japan",
+  "engine": "V-Twin, liquid-cooled",
+  "displacement": 903,
+  "horsepower": 50,
+  "price": 7200,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/%D0%9A%D0%BE%D0%BD%D0%B0%D0%B5%D0%B2%2C_Kawasaki_Vulcan_900.jpg/1280px-%D0%9A%D0%BE%D0%BD%D0%B0%D0%B5%D0%B2%2C_Kawasaki_Vulcan_900.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:%D0%9A%D0%BE%D0%BD%D0%B0%D0%B5%D0%B2,_Kawasaki_Vulcan_900.jpg",
+    "credit": "Nikolai Bulykin",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Kawasaki_Vulcan_900_Custom_on_Seacliff_Drive_during_Hogs_for_Hospice%2C_Leamington%2C_Ontario%2C_2025-08-02.jpg/1280px-Kawasaki_Vulcan_900_Custom_on_Seacliff_Drive_during_Hogs_for_Hospice%2C_Leamington%2C_Ontario%2C_2025-08-02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Kawasaki_Vulcan_900_Custom_on_Seacliff_Drive_during_Hogs_for_Hospice,_Leamington,_Ontario,_2025-08-02.jpg",
+    "credit": "Chris Woodrich",
+    "license": "CC BY-SA 4.0"
+   }
+  ]
+ },
+ {
+  "id": "074",
+  "make": "Kawasaki",
+  "model": "Vulcan S",
+  "category": "Cruiser",
+  "year": 2021,
+  "country": "Japan",
+  "engine": "Parallel-Twin, liquid-cooled",
+  "displacement": 649,
+  "horsepower": 61,
+  "price": 7349,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Kawasaki_Vulcan_S_-_MRS_Oficina_-_Mondial_de_l%27Automobile_de_Paris_2018_-_001.jpg/1280px-Kawasaki_Vulcan_S_-_MRS_Oficina_-_Mondial_de_l%27Automobile_de_Paris_2018_-_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Kawasaki_Vulcan_S_-_MRS_Oficina_-_Mondial_de_l%27Automobile_de_Paris_2018_-_001.jpg",
+    "credit": "Thesupermat",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Kawasaki_Vulcan_S_%2725.jpg/1280px-Kawasaki_Vulcan_S_%2725.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Kawasaki_Vulcan_S_%2725.jpg",
+    "credit": "Oq10pass",
+    "license": "CC0"
+   }
+  ]
+ },
+ {
+  "id": "075",
+  "make": "Kawasaki",
+  "model": "W800",
+  "category": "Café Racer",
+  "year": 2020,
+  "country": "Japan",
+  "engine": "Parallel-Twin, air-cooled",
+  "displacement": 773,
+  "horsepower": 47,
+  "price": 9499,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Kawasaki_W800_SlantView.jpg/1280px-Kawasaki_W800_SlantView.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Kawasaki_W800_SlantView.jpg",
+    "credit": "サフィル",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Kawasaki_W800_%282%29.jpg/1280px-Kawasaki_W800_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Kawasaki_W800_(2).jpg",
+    "credit": "Cjp24",
+    "license": "CC BY-SA 4.0"
+   }
+  ]
+ },
+ {
+  "id": "076",
+  "make": "Kawasaki",
+  "model": "Versys 1000",
+  "category": "Adventure",
+  "year": 2020,
+  "country": "Japan",
+  "engine": "Inline-Four, liquid-cooled",
+  "displacement": 1043,
+  "horsepower": 120,
+  "price": 13500,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Kawasaki_Versys_1000_DSCF0395.jpg/1280px-Kawasaki_Versys_1000_DSCF0395.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Kawasaki_Versys_1000_DSCF0395.jpg",
+    "credit": "Addvisor",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Kawasaki_Versys_1000_DSCF0396.jpg/1280px-Kawasaki_Versys_1000_DSCF0396.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Kawasaki_Versys_1000_DSCF0396.jpg",
+    "credit": "Addvisor",
+    "license": "CC BY-SA 4.0"
+   }
+  ]
+ },
+ {
+  "id": "077",
+  "make": "Kawasaki",
+  "model": "Z1 900",
+  "category": "Café Racer",
+  "year": 1973,
+  "country": "Japan",
+  "engine": "Inline-Four, air-cooled",
+  "displacement": 903,
+  "horsepower": 82,
+  "price": 24500,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Kawasaki_Z1_900.jpg/1280px-Kawasaki_Z1_900.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Kawasaki_Z1_900.jpg",
+    "credit": "Reg Mckenna",
+    "license": "CC BY 2.0"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Kawasaki_900_Z1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "page": "https://commons.wikimedia.org/wiki/File:Kawasaki_900_Z1.JPG",
+    "credit": "PekePON",
+    "license": "CC BY-SA 3.0"
+   }
+  ]
+ },
+ {
+  "id": "078",
+  "make": "Kawasaki",
+  "model": "KLR650",
+  "category": "Adventure",
+  "year": 2022,
+  "country": "Japan",
+  "engine": "Single, liquid-cooled",
+  "displacement": 652,
+  "horsepower": 40,
+  "price": 6899,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Man_Returning_on_Kawasaki_KLR_650_-_Las_Vegas_Ride_for_Kids_2019.jpg/1280px-Man_Returning_on_Kawasaki_KLR_650_-_Las_Vegas_Ride_for_Kids_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Man_Returning_on_Kawasaki_KLR_650_-_Las_Vegas_Ride_for_Kids_2019.jpg",
+    "credit": "Noah Wulf",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Kawasaki_KLR_650_01.jpg/1280px-Kawasaki_KLR_650_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Kawasaki_KLR_650_01.jpg",
+    "credit": "avidd",
+    "license": "CC BY 2.0"
+   }
+  ]
+ },
+ {
+  "id": "079",
+  "make": "Yamaha",
+  "model": "XSR900",
+  "category": "Scrambler",
+  "year": 2022,
+  "country": "Japan",
+  "engine": "Inline-Triple, liquid-cooled",
+  "displacement": 890,
+  "horsepower": 117,
+  "price": 9999,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/2016_Yamaha_XSR900.jpg/1280px-2016_Yamaha_XSR900.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:2016_Yamaha_XSR900.jpg",
+    "credit": "O1dm0n",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Yamaha_XSR_900_2018.jpg/1280px-Yamaha_XSR_900_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Yamaha_XSR_900_2018.jpg",
+    "credit": "AlbertoSossella",
+    "license": "CC BY-SA 4.0"
+   }
+  ]
+ },
+ {
+  "id": "080",
+  "make": "Yamaha",
+  "model": "XSR700",
+  "category": "Scrambler",
+  "year": 2021,
+  "country": "Japan",
+  "engine": "Parallel-Twin, liquid-cooled",
+  "displacement": 689,
+  "horsepower": 73,
+  "price": 8499,
+  "images": [
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/1/10/2022_Yamaha_XSR700.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "page": "https://commons.wikimedia.org/wiki/File:2022_Yamaha_XSR700.jpg",
+    "credit": "Kuro202",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Red_Yamaha_XSR700_parked_near_a_bicycle_2018.jpg/1280px-Red_Yamaha_XSR700_parked_near_a_bicycle_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Red_Yamaha_XSR700_parked_near_a_bicycle_2018.jpg",
+    "credit": "Zac56105",
+    "license": "CC BY-SA 4.0"
+   }
+  ]
+ },
+ {
+  "id": "081",
+  "make": "Yamaha",
+  "model": "YZF-R1",
+  "category": "Sport",
+  "year": 2020,
+  "country": "Japan",
+  "engine": "Crossplane Inline-Four, liquid-cooled",
+  "displacement": 998,
+  "horsepower": 197,
+  "price": 17399,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/1998_Yamaha_YZF-R1_in_the_Yamaha_Communication_Plaza.JPG/1280px-1998_Yamaha_YZF-R1_in_the_Yamaha_Communication_Plaza.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:1998_Yamaha_YZF-R1_in_the_Yamaha_Communication_Plaza.JPG",
+    "credit": "Rainmaker47",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/YAMAHA_YZF-R1_2010_right-front_Yamaha_Communication_Plaza.jpg/1280px-YAMAHA_YZF-R1_2010_right-front_Yamaha_Communication_Plaza.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:YAMAHA_YZF-R1_2010_right-front_Yamaha_Communication_Plaza.jpg",
+    "credit": "PekePON",
+    "license": "CC BY-SA 3.0"
+   }
+  ]
+ },
+ {
+  "id": "082",
+  "make": "Yamaha",
+  "model": "Bolt",
+  "category": "Bobber",
+  "year": 2020,
+  "country": "Japan",
+  "engine": "V-Twin, air-cooled",
+  "displacement": 942,
+  "horsepower": 54,
+  "price": 8399,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/YAMAHA_BOLT_%281%29.JPG/1280px-YAMAHA_BOLT_%281%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:YAMAHA_BOLT_(1).JPG",
+    "credit": "Tokumeigakarinoaoshima",
+    "license": "CC0"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Yamaha_Bolt_-_Heineken.jpg/1280px-Yamaha_Bolt_-_Heineken.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Yamaha_Bolt_-_Heineken.jpg",
+    "credit": "Cjp24",
+    "license": "CC BY-SA 4.0"
+   }
+  ]
+ },
+ {
+  "id": "083",
+  "make": "Yamaha",
+  "model": "V-Max",
+  "category": "Chopper",
+  "year": 2010,
+  "country": "Japan",
+  "engine": "V4, liquid-cooled",
+  "displacement": 1679,
+  "horsepower": 197,
+  "price": 13500,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Yamaha_V-Max_R%C3%A4derumbau.jpg/1280px-Yamaha_V-Max_R%C3%A4derumbau.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Yamaha_V-Max_R%C3%A4derumbau.jpg",
+    "credit": "First Krad",
+    "license": "CC0"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Yamaha_V-Max_.jpg/1280px-Yamaha_V-Max_.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Yamaha_V-Max_.jpg",
+    "credit": "First Krad",
+    "license": "CC0"
+   }
+  ]
+ },
+ {
+  "id": "084",
+  "make": "Yamaha",
+  "model": "Ténéré 700",
+  "category": "Adventure",
+  "year": 2022,
+  "country": "Japan",
+  "engine": "Parallel-Twin, liquid-cooled",
+  "displacement": 689,
+  "horsepower": 72,
+  "price": 10299,
+  "images": [
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/0/06/Yamaha_T%C3%A9n%C3%A9r%C3%A9_Rally_700_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "page": "https://commons.wikimedia.org/wiki/File:Yamaha_T%C3%A9n%C3%A9r%C3%A9_Rally_700_2025.jpg",
+    "credit": "AVMOTO",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Yamaha_T%C3%A9n%C3%A9r%C3%A9_700_2025.jpg/1280px-Yamaha_T%C3%A9n%C3%A9r%C3%A9_700_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Yamaha_T%C3%A9n%C3%A9r%C3%A9_700_2025.jpg",
+    "credit": "AVMOTO",
+    "license": "CC BY-SA 4.0"
+   }
+  ]
+ },
+ {
+  "id": "085",
+  "make": "Yamaha",
+  "model": "Star Venture",
+  "category": "Touring",
+  "year": 2019,
+  "country": "Japan",
+  "engine": "V-Twin, air-cooled",
+  "displacement": 1854,
+  "horsepower": 97,
+  "price": 22500,
+  "images": [
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/d/de/2006_Yamaha_Royal_Star_Venture.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "page": "https://commons.wikimedia.org/wiki/File:2006_Yamaha_Royal_Star_Venture.jpg",
+    "credit": "S Bumgardner at English Wikipedia",
+    "license": "Public domain"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/7/7a/2021_Yamaha_Star_Venture_TC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "page": "https://commons.wikimedia.org/wiki/File:2021_Yamaha_Star_Venture_TC.jpg",
+    "credit": "MrPHR",
+    "license": "CC0"
+   }
+  ]
+ },
+ {
+  "id": "086",
+  "make": "Yamaha",
+  "model": "SR400",
+  "category": "Café Racer",
+  "year": 2018,
+  "country": "Japan",
+  "engine": "Single, air-cooled",
+  "displacement": 399,
+  "horsepower": 23,
+  "price": 5500,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Yamaha_SR400.jpg/1280px-Yamaha_SR400.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Yamaha_SR400.jpg",
+    "credit": "TTTNIS",
+    "license": "Public domain"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/YAMAHA_SR400.JPG/1280px-YAMAHA_SR400.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:YAMAHA_SR400.JPG",
+    "credit": "Tokumeigakarinoaoshima",
+    "license": "CC0"
+   }
+  ]
+ },
+ {
+  "id": "087",
+  "make": "Yamaha",
+  "model": "XS650",
+  "category": "Café Racer",
+  "year": 1978,
+  "country": "Japan",
+  "engine": "Parallel-Twin, air-cooled",
+  "displacement": 653,
+  "horsepower": 50,
+  "price": 7500,
+  "images": [
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Yamaha_XS650.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "page": "https://commons.wikimedia.org/wiki/File:Yamaha_XS650.jpg",
+    "credit": "Rikita",
+    "license": "CC BY-SA 3.0"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/1978_Yamaha_XS650_Special.JPG/1280px-1978_Yamaha_XS650_Special.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:1978_Yamaha_XS650_Special.JPG",
+    "credit": "Rainmaker47",
+    "license": "CC BY-SA 4.0"
+   }
+  ]
+ },
+ {
+  "id": "088",
+  "make": "Suzuki",
+  "model": "Hayabusa",
+  "category": "Sport",
+  "year": 2022,
+  "country": "Japan",
+  "engine": "Inline-Four, liquid-cooled",
+  "displacement": 1340,
+  "horsepower": 187,
+  "price": 18599,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/SUZUKI_Hayabusa_2007TMS.jpg/1280px-SUZUKI_Hayabusa_2007TMS.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:SUZUKI_Hayabusa_2007TMS.jpg",
+    "credit": "PekePON",
+    "license": "CC BY-SA 3.0"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Suzuki_Hayabusa_2025.jpg/1280px-Suzuki_Hayabusa_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Suzuki_Hayabusa_2025.jpg",
+    "credit": "AVMOTO",
+    "license": "CC BY-SA 4.0"
+   }
+  ]
+ },
+ {
+  "id": "089",
+  "make": "Suzuki",
+  "model": "GSX-R1000",
+  "category": "Sport",
+  "year": 2020,
+  "country": "Japan",
+  "engine": "Inline-Four, liquid-cooled",
+  "displacement": 999,
+  "horsepower": 199,
+  "price": 15500,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Suzuki_GSX-R1000_police.jpg/1280px-Suzuki_GSX-R1000_police.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Suzuki_GSX-R1000_police.jpg",
+    "credit": "Andrej Danković",
+    "license": "CC BY 3.0"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/5/59/Suzuki_gsx-r1000.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "page": "https://commons.wikimedia.org/wiki/File:Suzuki_gsx-r1000.jpg",
+    "credit": "Zero wolf",
+    "license": "CC BY-SA 3.0"
+   }
+  ]
+ },
+ {
+  "id": "090",
+  "make": "Suzuki",
+  "model": "Boulevard M109R",
+  "category": "Chopper",
+  "year": 2019,
+  "country": "Japan",
+  "engine": "V-Twin, liquid-cooled",
+  "displacement": 1783,
+  "horsepower": 123,
+  "price": 12500,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Suzuki_Boulevard_M109R_blue.jpg/1280px-Suzuki_Boulevard_M109R_blue.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Suzuki_Boulevard_M109R_blue.jpg",
+    "credit": "Reg Mckenna",
+    "license": "CC BY 2.0"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Suzuki_Boulevard_M109R_McDonald%27s_VT_Rte_5_Lyndonville_VT_August_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "page": "https://commons.wikimedia.org/wiki/File:Suzuki_Boulevard_M109R_McDonald%27s_VT_Rte_5_Lyndonville_VT_August_2019.jpg",
+    "credit": "Artaxerxes",
+    "license": "CC BY-SA 4.0"
+   }
+  ]
+ },
+ {
+  "id": "091",
+  "make": "Suzuki",
+  "model": "Boulevard C50",
+  "category": "Cruiser",
+  "year": 2018,
+  "country": "Japan",
+  "engine": "V-Twin, liquid-cooled",
+  "displacement": 805,
+  "horsepower": 51,
+  "price": 7500,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/2005_Suzuki_Boulevard_C50.jpg/1280px-2005_Suzuki_Boulevard_C50.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:2005_Suzuki_Boulevard_C50.jpg",
+    "credit": "Warrakkk",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Podlaskie_-_Dobrzyniewo_Du%C5%BCe_-_Kopisk_-_Suzuki_Boulevard_C50.JPG/1280px-Podlaskie_-_Dobrzyniewo_Du%C5%BCe_-_Kopisk_-_Suzuki_Boulevard_C50.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Podlaskie_-_Dobrzyniewo_Du%C5%BCe_-_Kopisk_-_Suzuki_Boulevard_C50.JPG",
+    "credit": "Krzysztof Kundzicz",
+    "license": "CC BY-SA 3.0"
+   }
+  ]
+ },
+ {
+  "id": "092",
+  "make": "Suzuki",
+  "model": "V-Strom 1050",
+  "category": "Adventure",
+  "year": 2021,
+  "country": "Japan",
+  "engine": "V-Twin, liquid-cooled",
+  "displacement": 1037,
+  "horsepower": 106,
+  "price": 13999,
+  "images": [
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Suzuki_DL1050_V-Strom_XT.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "page": "https://commons.wikimedia.org/wiki/File:Suzuki_DL1050_V-Strom_XT.jpg",
+    "credit": "Maaj01",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Suzuki_V-Strom_1050_resized.jpg/1280px-Suzuki_V-Strom_1050_resized.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Suzuki_V-Strom_1050_resized.jpg",
+    "credit": "ShunyaIshiwatari",
+    "license": "CC BY-SA 4.0"
+   }
+  ]
+ },
+ {
+  "id": "093",
+  "make": "Suzuki",
+  "model": "Katana",
+  "category": "Café Racer",
+  "year": 2020,
+  "country": "Japan",
+  "engine": "Inline-Four, liquid-cooled",
+  "displacement": 999,
+  "horsepower": 150,
+  "price": 12500,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Suzuki_Katana_1000.jpg/1280px-Suzuki_Katana_1000.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Suzuki_Katana_1000.jpg",
+    "credit": "AlbertoSossella",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/SUZUKI_KATANA.jpg/1280px-SUZUKI_KATANA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:SUZUKI_KATANA.jpg",
+    "credit": "三澤佳祐",
+    "license": "CC BY-SA 4.0"
+   }
+  ]
+ },
+ {
+  "id": "094",
+  "make": "KTM",
+  "model": "1290 Super Adventure",
+  "category": "Adventure",
+  "year": 2021,
+  "country": "Austria",
+  "engine": "LC8 V-Twin, liquid-cooled",
+  "displacement": 1301,
+  "horsepower": 160,
+  "price": 19999,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/KTM_1290_Super_Adventure.jpeg/1280px-KTM_1290_Super_Adventure.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:KTM_1290_Super_Adventure.jpeg",
+    "credit": "San Andreas",
+    "license": "CC BY-SA 3.0"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/KTM_1290_Super_Adventure_R.jpg/1280px-KTM_1290_Super_Adventure_R.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:KTM_1290_Super_Adventure_R.jpg",
+    "credit": "KTM AG",
+    "license": "CC BY-SA 4.0"
+   }
+  ]
+ },
+ {
+  "id": "095",
+  "make": "KTM",
+  "model": "1290 Super Duke R",
+  "category": "Sport",
+  "year": 2021,
+  "country": "Austria",
+  "engine": "LC8 V-Twin, liquid-cooled",
+  "displacement": 1301,
+  "horsepower": 180,
+  "price": 18999,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/KTM_1290_Super_Duke_R%2C_right_view.jpg/1280px-KTM_1290_Super_Duke_R%2C_right_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:KTM_1290_Super_Duke_R,_right_view.jpg",
+    "credit": "Cjp24",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/KTM_Super_Duke_1290_R_%281%29.jpg/1280px-KTM_Super_Duke_1290_R_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:KTM_Super_Duke_1290_R_(1).jpg",
+    "credit": "Cjp24",
+    "license": "CC BY-SA 4.0"
+   }
+  ]
+ },
+ {
+  "id": "096",
+  "make": "KTM",
+  "model": "790 Adventure",
+  "category": "Adventure",
+  "year": 2021,
+  "country": "Austria",
+  "engine": "LC8c Parallel-Twin, liquid-cooled",
+  "displacement": 889,
+  "horsepower": 105,
+  "price": 13999,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/KTM_790_Adventure.jpg/1280px-KTM_790_Adventure.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:KTM_790_Adventure.jpg",
+    "credit": "MDzakovic",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/KTM_790_Adventure_%C4%B0stanbul_Municipal_Police.jpg/1280px-KTM_790_Adventure_%C4%B0stanbul_Municipal_Police.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:KTM_790_Adventure_%C4%B0stanbul_Municipal_Police.jpg",
+    "credit": "User:ToprakM",
+    "license": "CC BY 4.0"
+   }
+  ]
+ },
+ {
+  "id": "097",
+  "make": "Husqvarna",
+  "model": "Svartpilen 401",
+  "category": "Scrambler",
+  "year": 2021,
+  "country": "Sweden",
+  "engine": "Single, liquid-cooled",
+  "displacement": 373,
+  "horsepower": 44,
+  "price": 6299,
+  "images": [
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/3/36/Husqvarna_Svartpilen_401.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "page": "https://commons.wikimedia.org/wiki/File:Husqvarna_Svartpilen_401.jpg",
+    "credit": "KTM AG",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Moto_Husqvarna_Svartpilen_401_%C3%A0_Lyon%2C_France_%282019%29.jpg/1280px-Moto_Husqvarna_Svartpilen_401_%C3%A0_Lyon%2C_France_%282019%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Moto_Husqvarna_Svartpilen_401_%C3%A0_Lyon,_France_(2019).jpg",
+    "credit": "Sebleouf",
+    "license": "CC BY-SA 4.0"
+   }
+  ]
+ },
+ {
+  "id": "098",
+  "make": "Norton",
+  "model": "Commando 961",
+  "category": "Café Racer",
+  "year": 2017,
+  "country": "United Kingdom",
+  "engine": "Parallel-Twin, air/oil-cooled",
+  "displacement": 961,
+  "horsepower": 79,
+  "price": 19500,
+  "images": [
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Norton_Commando_961_Sport.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "page": "https://commons.wikimedia.org/wiki/File:Norton_Commando_961_Sport.jpg",
+    "credit": "Darren and Amy",
+    "license": "CC BY-SA 2.0"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Norton_Commando_961_arrival_%2816971719982%29.jpg/1280px-Norton_Commando_961_arrival_%2816971719982%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Norton_Commando_961_arrival_(16971719982).jpg",
+    "credit": "Daniel Hartwig from San Mateo, CA, USA",
+    "license": "CC BY 2.0"
+   }
+  ]
+ },
+ {
+  "id": "099",
+  "make": "Norton",
+  "model": "Commando 750",
+  "category": "Café Racer",
+  "year": 1970,
+  "country": "United Kingdom",
+  "engine": "Parallel-Twin, air-cooled",
+  "displacement": 745,
+  "horsepower": 58,
+  "price": 16500,
+  "images": [
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Norton_750_Commando_black.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "page": "https://commons.wikimedia.org/wiki/File:Norton_750_Commando_black.jpg",
+    "credit": "Nina Hale",
+    "license": "CC BY 2.0"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Norton_Commando_750_-_Flickr_-_dave_7.jpg/1280px-Norton_Commando_750_-_Flickr_-_dave_7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Norton_Commando_750_-_Flickr_-_dave_7.jpg",
+    "credit": "dave_7 from Canada",
+    "license": "CC BY 2.0"
+   }
+  ]
+ },
+ {
+  "id": "100",
+  "make": "Triumph",
+  "model": "Speed Twin",
+  "category": "Café Racer",
+  "year": 1939,
+  "country": "United Kingdom",
+  "engine": "Parallel-Twin, air-cooled",
+  "displacement": 498,
+  "horsepower": 27,
+  "price": 28500,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Triumph_Speed_Twin_%28Rennversion%29%2C_Bj._1939_%282008-06-28_Sp%29.jpg/1280px-Triumph_Speed_Twin_%28Rennversion%29%2C_Bj._1939_%282008-06-28_Sp%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Triumph_Speed_Twin_(Rennversion),_Bj._1939_(2008-06-28_Sp).jpg",
+    "credit": "Lothar Spurzem",
+    "license": "CC BY-SA 2.0 de"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/d/de/Triumph_Speed_Twin_%281960%29_-_8054832861.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "page": "https://commons.wikimedia.org/wiki/File:Triumph_Speed_Twin_(1960)_-_8054832861.jpg",
+    "credit": "SG2012",
+    "license": "CC BY 2.0"
+   }
+  ]
+ }
+]
